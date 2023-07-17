@@ -1,0 +1,1 @@
+{"name":"Local: hell","url":"c:\\Users\\faris\\OneDrive\\Desktop\\DSA\\hell.cpp","tests":[{"id":1689396077983,"input":"5\n1 2 3 4 5","output":"12345"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\faris\\OneDrive\\Desktop\\DSA\\hell.cpp","group":"local","local":true}
